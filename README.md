@@ -77,7 +77,7 @@ Test and debug the BI solution to ensure that it is working as expected and addr
 
 Deploy the BI solution to the management and document the entire process to ensure adoption and success.
 
-By following these hints, you should be able to successfully solve the capstone project and implement a BI solution using PowerBI and SQL that can help the company manage and analyze their sales data effectively.
+By following these steps, you should be able to successfully solve the capstone project and implement a BI solution using PowerBI and SQL that can help the company manage and analyze their sales data effectively.
 
 ***Deliverables:*** 
 
