@@ -7,18 +7,18 @@ To address this issue, the company has decided to implement a Business Intellige
 
 The goal of the project is to design and implement a BI solution using PowerBI and SQL that can help the company manage and analyze their sales data effectively. The solution should be able to:
 
-1.Import and integrate the data from MySQL database into PowerBI
+1. Import and integrate the data from MySQL database into PowerBI
 
-2.Clean and transform the data to make it ready for analysis.
+2. Clean and transform the data to make it ready for analysis.
 
-3.Build interactive dashboards and reports using PowerBI that can help the sales team and management make sense of the data.
+3. Build interactive dashboards and reports using PowerBI that can help the sales team and management make sense of the data.
 
-4.Use SQL to perform advanced analytics on the data and extract insights that can help the company improve its sales (if needed).
+4. Use SQL to perform advanced analytics on the data and extract insights that can help the company improve its sales (if needed).
 
-5.Enable the management to access the dashboards and reports in real-time and make data-driven decisions.
+5. Enable the management to access the dashboards and reports in real-time and make data-driven decisions.
 
-6.The solution should be user-friendly and easy to use for the sales team and management. The project will be successful if it helps the company effectively manage and 
-  analyze their sales data and improve their decision-making process.
+6. The solution should be user-friendly and easy to use for the sales team and management. The project will be successful if it helps the company effectively manage and 
+   analyze their sales data and improve their decision-making process.
 
 
 ***To solve the above project, the given steps can be followed:***
