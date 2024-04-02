@@ -23,17 +23,21 @@ The goal of the project is to design and implement a BI solution using PowerBI a
 
 ***To solve the above project, the given steps can be followed:***
 
-Use the data source provided: Use the MySQL database provided as a data source.
+1. Use the data source provided: Use the MySQL database provided as a data source.
 
-Extract and clean the data: The next step is to extract the data from the identified sources and clean it to make it ready for analysis. This may involve tasks such as removing duplicates, handling missing values, and ensuring data consistency.
+2. Extract and clean the data: The next step is to extract the data from the identified sources and clean it to make it ready for analysis. This may involve tasks such as 
+   removing duplicates, handling missing values, and ensuring data consistency.
 
-Load the data into a PowerBI: The cleaned data can then be loaded into a centralized database.
+3. Load the data into a PowerBI: The cleaned data can then be loaded into a centralized database.
 
-Design the dashboards and reports: Using PowerBI, data can be visualized in the form of interactive dashboards and reports. These dashboards and reports can be designed to provide useful insights and information to the management.
+4. Design the dashboards and reports: Using PowerBI, data can be visualized in the form of interactive dashboards and reports. These dashboards and reports can be designed 
+   to provide useful insights and information to the management.
 
-Perform advanced analytics: Using SQL, advanced analytics can be performed on the sales data to extract insights and inform decision-making. This may involve tasks such as creating pivot tables, running queries, and creating views.
+5. Perform advanced analytics: Using SQL, advanced analytics can be performed on the sales data to extract insights and inform decision-making. This may involve tasks such 
+   as creating pivot tables, running queries, and creating views.
 
-Deploy the solution: The final step is to deploy the BI solution, including the dashboards, reports, and advanced analytics, to the sales team and management. The solution should be user-friendly and easy to use to ensure adoption and success.
+6. Deploy the solution: The final step is to deploy the BI solution, including the dashboards, reports, and advanced analytics, to the sales team and management. The 
+   solution should be user-friendly and easy to use to ensure adoption and success.
 
 
 
